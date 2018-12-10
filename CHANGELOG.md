@@ -1,4 +1,4 @@
-## 1.0.0-a2
+## 0.1.0
 
-- Initial version.
+- Initial release.
 
