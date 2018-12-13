@@ -4,6 +4,10 @@ Cacao is a Cross-Origin (CORS) proxy.  It allows Javascript running in a web bro
 
 This app is for iOS and Android to use as a local proxy for their builtin web browsers.  It is built with [Flutter](https://flutter.io/).
 
+## FIXME: State of Brokenness
+
+This app does not currently work.  See TODO.md.
+
 See [Cacao Proxy](https://github.com/michaelfig/cacao) for more details.
 
 Michael FIG <michael+cacao@fig.org>, 2018-12-06
